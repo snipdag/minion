@@ -35,6 +35,14 @@ Outputs `JSON`:
       "exit status": "sucess",
       "output": "" }
 
+## Security
+
+* It leverages Cocaine's security.
+
+## Requirements
+
+* https://github.com/thoughtbot/cocaine
+
 ## Credits
 
 * By Savvii Wordpress Hosting
