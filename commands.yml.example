@@ -1,0 +1,5 @@
+---
+  commands:
+    - hostname
+    - uptime
+    - ls
