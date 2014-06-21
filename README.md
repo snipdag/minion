@@ -27,7 +27,7 @@ Outputs `JSON`:
 
 Ran with:
 
-     curl -X POST http://example.com:4567/commands/hostname?app_name="example.com"
+     curl -X POST http://example.com:4567/commands/restart_app?app_name="example.com"
 
 Outputs `JSON`:
 
